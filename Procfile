@@ -1,0 +1,1 @@
+web: gunicorn emergenexweb.wsgi --log-file -
